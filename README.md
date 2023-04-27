@@ -1,2 +1,1 @@
-# synx-v3
-synx
+có cái con cu nha bonu
